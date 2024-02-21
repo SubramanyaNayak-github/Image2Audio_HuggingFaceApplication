@@ -1,0 +1,8 @@
+huggingface_hub
+streamlit
+google-generativeai
+python-dotenv
+transformers
+tensorflow
+torchvision
+torchaudio
